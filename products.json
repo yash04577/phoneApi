@@ -1,0 +1,128 @@
+[
+    {
+        "name": "iphone 10",
+        "price": 99999,
+        "feature": true,
+        "company": "apple"
+    },
+    {
+        "name": "iphone 11",
+        "price": 99999,
+        "feature": false,
+        "company": "apple"
+    },
+    {
+        "name": "iphone 12",
+        "price": 99999,
+        "feature": false,
+        "company": "apple"
+    },
+    {
+        "name": "iphone 13",
+        "price": 99999,
+        "feature": false,
+        "company": "apple"
+    },
+    {
+        "name": "iphone 14",
+        "price": 99999,
+        "feature": false,
+        "company": "apple"
+    },
+    {
+        "name": "s22 ultra",
+        "price": 89999,
+        "feature": true,
+        "company": "samsung"
+    },
+    {
+        "name": "note 20",
+        "price": 79999,
+        "feature": false,
+        "company": "samsung"
+    },
+    {
+        "name": "s22 plus",
+        "price": 69999,
+        "feature": true,
+        "company": "samsung"
+    },
+    {
+        "name": "s22",
+        "price": 75999,
+        "feature": true,
+        "company": "samsung"
+    },
+    {
+        "name": "s21 ultra",
+        "price": 75899,
+        "feature": false,
+        "company": "samsung"
+    },
+    {
+        "name": "note 12",
+        "price": 19999,
+        "feature": true,
+        "company": "mi",
+        "rating" : 4.5
+    },
+    {
+        "name": "note 11",
+        "price": 15999,
+        "feature": false,
+        "company": "mi",
+        "rating" : 4.6
+    },
+    {
+        "name": "note 10",
+        "price": 14999,
+        "feature": true,
+        "company": "mi",
+        "rating" : 4.2
+    },
+    {
+        "name": "note 9",
+        "price": 7599,
+        "feature": false,
+        "company": "mi",
+        "rating" : 3.9
+    },
+    {
+        "name": "note 8",
+        "price": 7589,
+        "feature": false,
+        "company": "mi",
+        "rating" : 3.9
+    },
+    {
+        "name": "realme 10",
+        "price": 19999,
+        "feature": true,
+        "company": "realme"
+    },
+    {
+        "name": "realme 9 pro plus",
+        "price": 15999,
+        "feature": true,
+        "company": "realme"
+    },
+    {
+        "name": "realme 8",
+        "price": 14999,
+        "feature": false,
+        "company": "realme"
+    },
+    {
+        "name": "realme gt 2",
+        "price": 37599,
+        "feature": true,
+        "company": "realme"
+    },
+    {
+        "name": "realme 7 pro",
+        "price": 17589,
+        "feature": false,
+        "company": "realme"
+    }
+   
+]
