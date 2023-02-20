@@ -3,10 +3,11 @@ const express = require("express")
 const app = express();
 const connectDB = require("./DB/connect");
 const products_route = require("./routes/products");
+const cors = require("cors")
 
 
 const PORT = process.env.PORT || 8000
-
+app.use(cors())
 
 app.get("/", (req, res) => {
     res.send("home page");

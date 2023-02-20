@@ -8,7 +8,7 @@ const getAllProducts = async (req, res) => {
 
 const getAllProductsTesting = async (req, res) => {
 
-    console.log(req.query);
+    // console.log(req.query);
 
     const queryObject = {};
 
